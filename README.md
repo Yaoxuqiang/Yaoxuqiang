@@ -25,6 +25,5 @@ Java 后端 & AI Agent。做高并发分布式系统，也在做面向代码仓�
 
 ![streak](https://streak-stats.demolab.com?user=Yaoxuqiang&locale=zh_Hans&theme=tokyonight)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaoxuqiang&layout=compact&locale=cn&theme=tokyonight)
 
 ![views](https://komarev.com/ghpvc/?username=Yaoxuqiang&color=blue)
