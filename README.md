@@ -1,4 +1,4 @@
-## 尧旭强 · Java + Agent
+##  · Java + Agent
 
 Java 后端 & AI Agent。做高并发分布式系统，也在做面向代码仓库的长链路 Agent 设计。
 
